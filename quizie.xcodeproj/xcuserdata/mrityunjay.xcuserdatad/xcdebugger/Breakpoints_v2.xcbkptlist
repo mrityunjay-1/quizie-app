@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D85A1FA3-C1F2-4214-8694-EF9B6DB91D87"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quizie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - b0569ec37d5f8d34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.statusLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - cea3baef93883400"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.statusLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - 39988dfcd02b7777"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.statusLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - e568bef36b848e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.statusLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - cc7da4b5f5e6cfd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; quizie.ViewController"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "128D6A68-7E28-48D2-8B87-0A1A81F7C7A3 - 93627c387781a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;quizie.ViewController&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quizie/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - c111a3442a76d52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.questionLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - 12dbe9a164ec0539"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.questionLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - a11267527c0d792a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.questionLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - 35d801b137e330c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.questionLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - cc7da4b5f5e6cff0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; quizie.ViewController"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "7E55B422-559D-4DCB-8CC6-195E44741E97 - 93627c387781a5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quizie.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;quizie.ViewController&gt;"
+                  moduleName = "quizie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

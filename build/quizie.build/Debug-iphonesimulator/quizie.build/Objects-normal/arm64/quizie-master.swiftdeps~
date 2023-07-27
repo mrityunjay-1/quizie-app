@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7a0f20bb25f906947b3e21b7b8e57c1b6cf6703d993dae4d4ee6ef2008dee283"
+build_start_time: [1690428400, 319827000]
+build_end_time: [1690428400, 401660000]
+inputs:
+  "/Users/mrityunjay/XCodeProjects/quizie/quizie/AppDelegate.swift": !private [1690428102, 521993655]
+  "/Users/mrityunjay/XCodeProjects/quizie/quizie/SceneDelegate.swift": !private [1690428102, 526161238]
+  "/Users/mrityunjay/XCodeProjects/quizie/quizie/ViewController.swift": !private [1690428102, 527323418]
